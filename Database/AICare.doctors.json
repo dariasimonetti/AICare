@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "678bcc128670e22e678a7a29"
+  },
+  "email": "doctorantonio@gmail.com",
+  "password": "scrypt:32768:8:1$Uj6Xiha4IKITGkis$60271614be33e02ebf9619160e1e60b0c8b9bb661a30cdd4d8a880e813ab1efba102d1a5dfceee077b809106c84f0951e89370f5481b4a2a434ca37a22f1af36",
+  "name": "Antonio",
+  "surname": "Ferraro",
+  "workplace": "Ospedale San Raffaele"
+},
+{
+  "_id": {
+    "$oid": "678cd62ba4f10e39e9f5cde6"
+  },
+  "email": "doctordaria@gmail.com",
+  "password": "scrypt:32768:8:1$Uj6Xiha4IKITGkis$60271614be33e02ebf9619160e1e60b0c8b9bb661a30cdd4d8a880e813ab1efba102d1a5dfceee077b809106c84f0951e89370f5481b4a2a434ca37a22f1af36",
+  "name": "Daria",
+  "surname": "Simonetti",
+  "workplace": "Ospedale San Raffaele"
+}]
