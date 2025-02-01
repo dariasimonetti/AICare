@@ -4,3 +4,4 @@ pymongo
 dnspython
 llama-cpp-python
 python-dotenv
+tiktoken
