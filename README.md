@@ -11,7 +11,7 @@ You need to install:
 + [Python 3.13.1](https://www.python.org/downloads/release/python-3131/)
 
 # Instructions📖
-1. Open MongoDB Compass and create a new database named "AICare with the following collections in it:
+1. Open MongoDB Compass and create a new database named "AICare" with the following collections in it:
    + Patients
    + doctors
    + fs.files
