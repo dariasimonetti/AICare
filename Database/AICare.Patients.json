@@ -1,0 +1,2357 @@
+[{
+  "_id": {
+    "$oid": "678b7fcae998ba412b183918"
+  },
+  "details": {
+    "age": 43,
+    "birth_date": "1981-12-05",
+    "blood_type": "A+",
+    "contact_emergency": "Abram Ledner (Husband): 2345067891",
+    "gender": "F",
+    "location": "Springfield, Massachussets",
+    "mail": "anitaledner@gmail.com",
+    "marital_status": "M",
+    "name": "Anita Lorna Ledner",
+    "phone": "1526984572",
+    "doctor_mail": "doctorantonio@gmail.com"
+  },
+  "allergies": [],
+  "medications": [
+    {
+      "date": "2024-12-28",
+      "name_and_reason": "amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "CURRENT"
+    },
+    {
+      "date": "2024-12-28",
+      "name_and_reason": "lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "CURRENT"
+    },
+    {
+      "date": "2024-12-28",
+      "name_and_reason": "Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "CURRENT"
+    },
+    {
+      "date": "2023-12-23",
+      "name_and_reason": "amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2023-12-23",
+      "name_and_reason": "lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2023-12-23",
+      "name_and_reason": "Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2022-12-17",
+      "name_and_reason": "amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2022-12-17",
+      "name_and_reason": "lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2022-12-17",
+      "name_and_reason": "Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    }
+  ],
+  "conditions": [
+    {
+      "date_range": "2024-12-28 - today",
+      "description": "Stress (finding)"
+    },
+    {
+      "date_range": "2024-12-28 - today",
+      "description": "Social isolation (finding)"
+    },
+    {
+      "date_range": "2024-01-06 - today",
+      "description": "Sleep apnea (disorder)"
+    },
+    {
+      "date_range": "2023-12-23 - 2024-12-28",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2023-11-25 - today",
+      "description": "Sleep disorder (disorder)"
+    },
+    {
+      "date_range": "2023-04-12 - 2023-04-06",
+      "description": "Viral sinusitis (disorder)"
+    },
+    {
+      "date_range": "2021-12-11 - today",
+      "description": "Anemia (disorder)"
+    },
+    {
+      "date_range": "2021-12-11 - today",
+      "description": "Prediabetes (finding)"
+    },
+    {
+      "date_range": "2021-12-11 - today",
+      "description": "Metabolic syndrome X (disorder)"
+    },
+    {
+      "date_range": "2021-12-11 - today",
+      "description": "Essential hypertension (disorder)"
+    },
+    {
+      "date_range": "2016-12-23 - today",
+      "description": "History of tubal ligation (situation)"
+    },
+    {
+      "date_range": "2007-02-10 - ",
+      "description": "Body mass index 30+ - obesity (finding)"
+    }
+  ],
+  "care_plans": [
+    {
+      "activities": [
+        "Weight reduction regimen (regime/therapy)",
+        "Warning. Avoid alcoholic drink (qualifier value)",
+        "Continuous positive airway pressure ventilation treatment (regime/therapy)"
+      ],
+      "date": "2024-01-06[CURRENT]",
+      "reason": "Sleep apnea (disorder)",
+      "type": "Care plan (record artifact)"
+    },
+    {
+      "activities": [
+        "Diabetic diet (finding)",
+        "Exercise therapy (regime/therapy)"
+      ],
+      "date": "2021-12-11[CURRENT]",
+      "reason": "Prediabetes (finding)",
+      "type": "Diabetes self management plan (record artifact)"
+    },
+    {
+      "activities": [
+        "Prescribed activity/exercise education (procedure)",
+        "Counseling about alcohol consumption (procedure)",
+        "Dietary Approaches to Stop Hypertension diet (regime/therapy)",
+        "Smoking cessation education (procedure)"
+      ],
+      "date": "2021-12-11[CURRENT]",
+      "reason": "Essential hypertension (disorder)",
+      "type": "Lifestyle education regarding hypertension (procedure)"
+    }
+  ],
+  "reports": [
+    {
+      "date": "2024-12-28",
+      "details": [
+        "Total score [DAST-10]                    1.0 {score}"
+      ],
+      "type": "Drug Abuse Screening Test-10 [DAST-10]"
+    },
+    {
+      "date": "2024-12-28",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}"
+      ],
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]"
+    },
+    {
+      "date": "2024-12-28",
+      "details": [
+        "Glucose [Mass/volume] in Blood           92.3 mg/dL",
+        "Urea nitrogen [Mass/volume] in Blood     17.7 mg/dL",
+        "Creatinine [Mass/volume] in Blood        0.9 mg/dL",
+        "Calcium [Mass/volume] in Blood           9.5 mg/dL",
+        "Sodium [Moles/volume] in Blood           137.2 mmol/L",
+        "Potassium [Moles/volume] in Blood        4.7 mmol/L",
+        "Chloride [Moles/volume] in Blood         110.3 mmol/L",
+        "Carbon dioxide, total [Moles/volume] in Blood 25.5 mmol/L"
+      ],
+      "type": "Basic metabolic panel - Blood"
+    },
+    {
+      "date": "2023-12-23",
+      "details": [
+        "Total score [DAST-10]                    1.0 {score}"
+      ],
+      "type": "Drug Abuse Screening Test-10 [DAST-10]"
+    },
+    {
+      "date": "2023-12-23",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}"
+      ],
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]"
+    },
+    {
+      "date": "2023-12-23",
+      "details": [
+        "Glucose [Mass/volume] in Blood           72.4 mg/dL",
+        "Urea nitrogen [Mass/volume] in Blood     12.9 mg/dL",
+        "Creatinine [Mass/volume] in Blood        1.3 mg/dL",
+        "Calcium [Mass/volume] in Blood           8.7 mg/dL",
+        "Sodium [Moles/volume] in Blood           139.8 mmol/L",
+        "Potassium [Moles/volume] in Blood        4.1 mmol/L",
+        "Chloride [Moles/volume] in Blood         110.7 mmol/L",
+        "Carbon dioxide, total [Moles/volume] in Blood 24.9 mmol/L"
+      ],
+      "type": "Basic metabolic panel - Blood"
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2024-12-28",
+      "description": "Screening for drug abuse (procedure)"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "Assessment of health and social care needs (procedure)"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "Sleep apnea assessment (procedure) for Sleep disorder (disorder)"
+    },
+    {
+      "date": "2024-12-28",
+      "description": "Medication reconciliation (procedure)"
+    },
+    {
+      "date": "2024-01-06",
+      "description": "Continuous positive airway pressure titration (procedure)"
+    },
+    {
+      "date": "2024-01-06",
+      "description": "Sleep apnea assessment (procedure) for Sleep disorder (disorder)"
+    },
+    {
+      "date": "2023-12-30",
+      "description": "Replacement of contraceptive intrauterine device (procedure)"
+    },
+    {
+      "date": "2023-12-23",
+      "description": "Screening for drug abuse (procedure)"
+    },
+    {
+      "date": "2023-12-23",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2023-12-23",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2023-12-23",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2023-12-23",
+      "description": "Assessment of health and social care needs (procedure)"
+    },
+    {
+      "date": "2023-12-09",
+      "description": "Sleep apnea assessment (procedure) for Sleep disorder (disorder)"
+    },
+    {
+      "date": "2023-11-25",
+      "description": "Referral to sleep apnea clinic (procedure) for Sleep disorder (disorder)"
+    },
+    {
+      "date": "2023-11-25",
+      "description": "Sleep apnea assessment (procedure) for Sleep disorder (disorder)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2023-12-23",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    },
+    {
+      "message": "Item added successfully",
+      "success": true,
+      "date": "2024-12-28",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    }
+  ],
+  "imaging_studies": [],
+  "chatFiles": []
+},
+{
+  "_id": {
+    "$oid": "678b8065e998ba412b183919"
+  },
+  "details": {
+    "age": 52,
+    "birth_date": "1972-07-25",
+    "blood_type": "0+",
+    "contact_emergency": "Jackob David Kutch (Husband): 7462848605",
+    "gender": "F",
+    "location": "Westfield, Massachussets",
+    "mail": "annekimberly72@gmail.com",
+    "marital_status": "M",
+    "name": "Anne Kimberly Kutch",
+    "phone": "2547698315",
+    "doctor_mail": "doctorantonio@gmail.com"
+  },
+  "allergies": [
+    {
+      "date": "1973-05-03 -",
+      "description": "Fish (substance)"
+    },
+    {
+      "date": "1973-05-03 -",
+      "description": "Cow's milk (substance)"
+    },
+    {
+      "date": "1973-05-03 -",
+      "description": "Tree pollen (substance)"
+    },
+    {
+      "date": "1973-05-03 -",
+      "description": "Grass pollen (substance)"
+    },
+    {
+      "date": "1973-05-03 -",
+      "description": "Animal dander (substance)"
+    },
+    {
+      "date": "1973-05-03 -",
+      "description": "House dust mite (organism)"
+    },
+    {
+      "date": "1973-05-03 -",
+      "description": "Mold (organism)"
+    },
+    {
+      "date": "1973-05-03 -",
+      "description": "Bee venom (substance)"
+    },
+    {
+      "date": "1973-05-03 -",
+      "description": "Latex (substance)"
+    },
+    {
+      "date": "1973-05-03 -",
+      "description": "Allergy to substance (finding)"
+    }
+  ],
+  "medications": [
+    {
+      "date": "2024-02-13",
+      "name_and_reason": "amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "CURRENT"
+    },
+    {
+      "date": "2024-02-13",
+      "name_and_reason": "lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "CURRENT"
+    },
+    {
+      "date": "2024-02-13",
+      "name_and_reason": "Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "CURRENT"
+    },
+    {
+      "date": "2024-01-21",
+      "name_and_reason": "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2023-02-21",
+      "name_and_reason": "sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2023-02-07",
+      "name_and_reason": "amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2023-02-07",
+      "name_and_reason": "lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2023-02-07",
+      "name_and_reason": "Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2022-02-01",
+      "name_and_reason": "amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2022-02-01",
+      "name_and_reason": "lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2022-02-01",
+      "name_and_reason": "Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)",
+      "status": "STOPPED"
+    },
+    {
+      "date": "2018-08-18",
+      "name_and_reason": "Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee (disorder)",
+      "status": "CURRENT"
+    },
+    {
+      "date": "1975-04-03",
+      "name_and_reason": "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet",
+      "status": "CURRENT"
+    }
+  ],
+  "conditions": [
+    {
+      "date_range": "2024-02-27 - 2024-02-27",
+      "description": "Primary dental caries (disorder)"
+    },
+    {
+      "date_range": "2024-02-13 - today",
+      "description": "Stress (finding)"
+    },
+    {
+      "date_range": "2024-01-21 - 2024-02-06",
+      "description": "Viral sinusitis (disorder)"
+    },
+    {
+      "date_range": "2023-02-21 - 2023-02-21",
+      "description": "Gingival disease (disorder)"
+    },
+    {
+      "date_range": "2023-02-07 - 2023-02-21",
+      "description": "Gingivitis (disorder)"
+    },
+    {
+      "date_range": "2023-02-07 - 2024-02-13",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2022-02-01 - 2023-02-07",
+      "description": "Stress (finding)"
+    },
+    {
+      "date_range": "2018-08-18 - today",
+      "description": "Osteoarthritis of knee (disorder)"
+    },
+    {
+      "date_range": "2014-12-23 - today",
+      "description": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "date_range": "2014-02-06 - today",
+      "description": "Chronic neck pain (finding)"
+    },
+    {
+      "date_range": "2014-02-06 - today",
+      "description": "Chronic low back pain (finding)"
+    },
+    {
+      "date_range": "2014-02-06 - today",
+      "description": "Chronic pain (finding)"
+    },
+    {
+      "date_range": "2008-02-13 - today",
+      "description": "History of tubal ligation (situation)"
+    },
+    {
+      "date_range": "2001-05-22 - today",
+      "description": "Essential hypertension (disorder)"
+    }
+  ],
+  "care_plans": [
+    {
+      "activities": [
+        "Joint mobility exercises (regime/therapy)",
+        "Heat therapy (procedure)"
+      ],
+      "date": "2018-08-18[CURRENT]",
+      "reason": "Osteoarthritis of knee (disorder)",
+      "type": "Musculoskeletal care (regime/therapy)"
+    },
+    {
+      "activities": [
+        "Prescribed activity/exercise education (procedure)",
+        "Counseling about alcohol consumption (procedure)",
+        "Dietary Approaches to Stop Hypertension diet (regime/therapy)",
+        "Smoking cessation education (procedure)"
+      ],
+      "date": "2001-05-22[CURRENT]",
+      "reason": "Essential hypertension (disorder)",
+      "type": "Lifestyle education regarding hypertension (procedure)"
+    },
+    {
+      "activities": [
+        "Food allergy diet (finding)",
+        "Allergy education (procedure)"
+      ],
+      "date": "1973-04-20[CURRENT]",
+      "reason": null,
+      "type": "Self-care interventions (procedure)"
+    }
+  ],
+  "reports": [
+    {
+      "date": "2024-02-13",
+      "details": [
+        "Total score [AUDIT-C]                    1.0 {score}"
+      ],
+      "type": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]"
+    },
+    {
+      "date": "2024-02-13",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}"
+      ],
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]"
+    },
+    {
+      "date": "2024-02-13",
+      "details": [
+        "Cholesterol [Mass/volume] in Serum or Plasma 148.4 mg/dL",
+        "Triglycerides                            101.2 mg/dL",
+        "Low Density Lipoprotein Cholesterol      75.1 mg/dL",
+        "Cholesterol in HDL [Mass/volume] in Serum or Plasma 53.1 mg/dL"
+      ],
+      "type": "Lipid panel with direct LDL - Serum or Plasma"
+    },
+    {
+      "date": "2023-02-07",
+      "details": [
+        "Total score [AUDIT-C]                    1.0 {score}"
+      ],
+      "type": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]"
+    },
+    {
+      "date": "2023-02-07",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}"
+      ],
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]"
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2024-02-27",
+      "description": "Oral health education (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2024-02-27",
+      "description": "Restoration of tooth with coverage of all cusps using dental filling material (procedure) for Primary dental caries (disorder)"
+    },
+    {
+      "date": "2024-02-27",
+      "description": "Examination of gingivae (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2024-02-27",
+      "description": "Dental plain X-ray bitewing (procedure)"
+    },
+    {
+      "date": "2024-02-27",
+      "description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2024-02-27",
+      "description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2024-02-27",
+      "description": "Dental care (regime/therapy) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2024-02-27",
+      "description": "Dental consultation and report (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2024-02-13",
+      "description": "Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2024-02-13",
+      "description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)"
+    },
+    {
+      "date": "2024-02-13",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2024-02-13",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-02-13",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-02-13",
+      "description": "Assessment of health and social care needs (procedure)"
+    },
+    {
+      "date": "2024-02-13",
+      "description": "Medication reconciliation (procedure)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Oral health education (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Dental fluoride treatment (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Postoperative care for dental procedure (regime/therapy)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Gingivectomy or gingivoplasty, per tooth (procedure) for Gingival disease (disorder)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Dental application of desensitizing medicament (procedure) for Gingival disease (disorder)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Dental surgical procedure (procedure) for Gingival disease (disorder)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Examination of gingivae (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Dental care (regime/therapy) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-02-21",
+      "description": "Dental consultation and report (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-02-07",
+      "description": "Patient referral for dental care (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-02-07",
+      "description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)"
+    },
+    {
+      "date": "2023-02-07",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2023-02-07",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2023-02-07",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2023-02-07",
+      "description": "Assessment of health and social care needs (procedure)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2024-02-13",
+      "vaccine": "Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed"
+    },
+    {
+      "date": "2024-02-13",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    },
+    {
+      "date": "2024-02-13",
+      "vaccine": "zoster vaccine, live"
+    },
+    {
+      "date": "2023-02-07",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    },
+    {
+      "date": "2023-02-07",
+      "vaccine": "zoster vaccine, live"
+    }
+  ],
+  "imaging_studies": [
+    {
+      "date": "2024-02-27",
+      "description": "Digital Radiography, Structure of region of internal part of mouth (body structure)"
+    }
+  ],
+  "chatFiles": [
+    {
+      "patient_id": "678b8065e998ba412b183919",
+      "content": "mistral response: Anne Kimberley Kutch is a 52-year-old female with a blood type of 0+. She has several allergies, including fish, cow's milk, tree pollen, grass pollen, animal dander, house dust mite, mold, bee venom, latex, and a general allergy to substances. Her current medications include amLODIPine, lisinopril, Hydrochlorothiazide, Naproxen sodium, and diphenhydrAMINE Hydrochloride.\n\nAnne has a history of essential hypertension and osteoarthritis of the knee, both requiring ongoing care and management. She has undergone dental procedures, including dental fillings, oral health education, and referrals for dental care. In addition, Anne has received vaccinations for tetanus, seasonal influenza, and zoster.\n\nDepression screenings, alcohol and substance use assessments, and lipid panels have been conducted for Anne, with her PHQ-2 score indicating possible depression and her lipid panel showing elevated cholesterol levels.\n\nIn summary, Anne Kimberley Kutch is a 52-year-old female with a history of essential hypertension, osteoarthritis, allergies, and possible depression. She is receiving ongoing care for her health conditions and has undergone dental procedures and vaccinations.",
+      "created_at": "2025-01-24T16:02:49.267Z",
+      "filename": "chat_Anne Kimberley Kutch_20250124T160249267Z.json"
+    },
+    {
+      "patient_id": "678b8065e998ba412b183919",
+      "content": "Dr. Antonio: Analysis for Active Care Plans\nmistral response: The patient, Anne Kimberly Kutch, is a 52-year-old female who has been undergoing various Active Care Plans to manage different health issues.\n\n        The first care plan, started in 2018, is aimed at addressing her Osteoarthritis of the knee. This involves joint mobility exercises and heat therapy, both of which are designed to alleviate pain and improve joint function. \n\n        The second care plan, initiated in 2001, focuses on essential hypertension. This plan incorporates prescribed activity/exercise education, counseling about alcohol consumption, a Dietary Approaches to Stop Hypertension (DASH) diet, and smoking cessation education. These interventions aim to manage and reduce the risk of hypertension-related complications.\n\n        The third care plan, implemented in 1973, is centered around self-care interventions. The patient has undergone a food allergy diet finding and allergy education, likely to manage allergies and improve overall health. \n\n        In summary, the patient has participated in multiple Active Care Plans, addressing various health issues such as Osteoarthritis of the knee, essential hypertension, and allergies. Each care plan consists of specific activities and interventions aimed at managing and improving the patient's health and well-being.",
+      "created_at": "2025-01-30T21:12:51.964Z",
+      "filename": "chat_Anne Kimberly Kutch_20250130T211251964Z.json"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "678b8072e998ba412b18391a"
+  },
+  "details": {
+    "name": "Dirk Jacobson",
+    "gender": "M",
+    "age": 26,
+    "birth_date": "1999-01-11",
+    "marital_status": "S",
+    "mail": "jacobsondirk@gmail.com",
+    "phone": "3568741592",
+    "blood_type": "AB-",
+    "location": "Chicopee, Massachussets",
+    "contact_emergency": "Loredana Price (Mother): 1257894625",
+    "doctor_mail": "doctorantonio@gmail.com"
+  },
+  "allergies": [
+    {
+      "date": "2000-04-13 -",
+      "description": "Eggs (edible) (substance)"
+    },
+    {
+      "date": "2000-04-13 -",
+      "description": "Aspirin"
+    },
+    {
+      "date": "2000-04-13 -",
+      "description": "Tree pollen (substance)"
+    },
+    {
+      "date": "2000-04-13 -",
+      "description": "Grass pollen (substance)"
+    },
+    {
+      "date": "2000-04-13 -",
+      "description": "Animal dander (substance)"
+    },
+    {
+      "date": "2000-04-13 -",
+      "description": "House dust mite (organism)"
+    },
+    {
+      "date": "2000-04-13 -",
+      "description": "Mold (organism)"
+    },
+    {
+      "date": "2000-04-13 -",
+      "description": "Allergy to substance (finding)"
+    }
+  ],
+  "medications": [
+    {
+      "date": "2023-05-07",
+      "status": "STOPPED",
+      "name_and_reason": "Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)"
+    },
+    {
+      "date": "2000-04-13",
+      "status": "CURRENT",
+      "name_and_reason": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector"
+    },
+    {
+      "date": "2000-04-13",
+      "status": "CURRENT",
+      "name_and_reason": "Fexofenadine hydrochloride 30 MG Oral Tablet"
+    }
+  ],
+  "conditions": [
+    {
+      "date_range": "2024-03-18 - today",
+      "description": "Anemia (disorder)"
+    },
+    {
+      "date_range": "2024-03-18 - today",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2023-05-15 - 2024-03-18",
+      "description": "Misuses drugs (finding)"
+    },
+    {
+      "date_range": "2023-05-15 - today",
+      "description": "Stress (finding)"
+    },
+    {
+      "date_range": "2023-05-06 - 2023-05-21",
+      "description": "Acute bronchitis (disorder)"
+    },
+    {
+      "date_range": "2021-03-15 - ",
+      "description": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "date_range": "2021-03-15 - today",
+      "description": ": Prediabetes (finding)"
+    },
+    {
+      "date_range": "2018-03-12 - 2023-05-15",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2017-01-06 - today",
+      "description": "Aortic valve regurgitation (disorder)"
+    }
+  ],
+  "care_plans": [
+    {
+      "date": "2023-05-07[STOPPED]",
+      "type": "Respiratory therapy (procedure)",
+      "reason": null,
+      "activities": [
+        "Recommendation to avoid exercise (procedure)",
+        "Deep breathing and coughing exercises (regime/therapy)"
+      ]
+    },
+    {
+      "date": "2021-03-15[CURRENT]",
+      "type": "Diabetes self management plan (record artifact)",
+      "reason": "Prediabetes (finding)",
+      "activities": [
+        "Diabetic diet (finding)",
+        "Exercise therapy (regime/therapy)"
+      ]
+    },
+    {
+      "date": "2000-03-28[CURRENT]",
+      "type": "Self-care interventions (procedure)",
+      "reason": null,
+      "activities": [
+        "Food allergy diet (finding)",
+        "Allergy education (procedure)"
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "date": "2024-03-25",
+      "type": "CBC panel - Blood by Automated count",
+      "details": [
+        "Hemoglobin [Mass/volume] in Blood        10.6 g/dL",
+        "Hematocrit [Volume Fraction] of Blood    33.2 %",
+        "Leukocytes [#/volume] in Blood by Automated count 8.9 10*3/uL",
+        "Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL",
+        "MCV [Entitic volume] by Automated count  92.8 fL",
+        "MCH [Entitic mass] by Automated count    32.8 pg",
+        "MCHC [Mass/volume] by Automated count    34.7 g/dL",
+        "Erythrocyte distribution width [Entitic volume] by Automated count 40.0 fL",
+        "Platelets [#/volume] in Blood by Automated count 394.0 10*3/uL",
+        "Platelet distribution width [Entitic volume] in Blood by Automated count 295.1 fL",
+        "Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL"
+      ]
+    },
+    {
+      "date": "2024-03-18",
+      "type": "Drug Abuse Screening Test-10 [DAST-10]",
+      "details": [
+        "Total score [DAST-10]                    1.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-03-18",
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-03-18",
+      "type": "Basic metabolic panel - Blood",
+      "details": [
+        "Glucose [Mass/volume] in Blood           72.5 mg/dL",
+        "Urea nitrogen [Mass/volume] in Blood     14.1 mg/dL",
+        "Creatinine [Mass/volume] in Blood        1.6 mg/dL",
+        "Calcium [Mass/volume] in Blood           8.6 mg/dL",
+        "Sodium [Moles/volume] in Blood           140.9 mmol/L",
+        "Potassium [Moles/volume] in Blood        5.0 mmol/L",
+        "Chloride [Moles/volume] in Blood         108.9 mmol/L",
+        "Carbon dioxide, total [Moles/volume] in Blood 21.4 mmol/L"
+      ]
+    },
+    {
+      "date": "2023-05-15",
+      "type": "Drug Abuse Screening Test-10 [DAST-10]",
+      "details": [
+        "Total score [DAST-10]                    6.0 {score}"
+      ]
+    },
+    {
+      "date": "2023-05-15",
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}"
+      ]
+    },
+    {
+      "date": "2023-05-15",
+      "type": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+      "details": [
+        "Total score [HARK]                       0.0 {score}"
+      ]
+    },
+    {
+      "date": "2023-05-15",
+      "type": "Generalized anxiety disorder 7 item (GAD-7)",
+      "details": [
+        "Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}"
+      ]
+    },
+    {
+      "date": "2023-05-15",
+      "type": "Basic metabolic panel - Blood",
+      "details": [
+        "Glucose [Mass/volume] in Blood           81.7 mg/dL",
+        "Urea nitrogen [Mass/volume] in Blood     13.4 mg/dL",
+        "Creatinine [Mass/volume] in Blood        1.5 mg/dL",
+        "Calcium [Mass/volume] in Blood           9.5 mg/dL",
+        "Sodium [Moles/volume] in Blood           137.3 mmol/L",
+        "Potassium [Moles/volume] in Blood        3.8 mmol/L",
+        "Chloride [Moles/volume] in Blood         101.3 mmol/L",
+        "Carbon dioxide, total [Moles/volume] in Blood 27.4 mmol/L"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2024-06-12",
+      "description": "Transthoracic echocardiography (procedure)"
+    },
+    {
+      "date": "2024-06-12",
+      "description": "Referral for echocardiography (procedure) for Aortic valve regurgitation (disorder)"
+    },
+    {
+      "date": "2024-03-25",
+      "description": "Brief general examination (procedure)"
+    },
+    {
+      "date": "2024-03-25",
+      "description": "Medication reconciliation (procedure)"
+    },
+    {
+      "date": "2024-03-25",
+      "description": "Review of systems (procedure)"
+    },
+    {
+      "date": "2024-03-25",
+      "description": "Peripheral blood smear interpretation (procedure)"
+    },
+    {
+      "date": "2024-03-18",
+      "description": "Screening for drug abuse (procedure)"
+    },
+    {
+      "date": "2024-03-18",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2024-03-18",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-03-18",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-03-18",
+      "description": "Assessment of health and social care needs (procedure)"
+    },
+    {
+      "date": "2023-05-15",
+      "description": "Screening for drug abuse (procedure)"
+    },
+    {
+      "date": "2023-05-15",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2023-05-15",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2023-05-15",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2023-05-15",
+      "description": "Screening for domestic abuse (procedure)"
+    },
+    {
+      "date": "2023-05-15",
+      "description": "Assessment of anxiety (procedure)"
+    },
+    {
+      "date": "2023-05-15",
+      "description": "Assessment of health and social care needs (procedure)"
+    },
+    {
+      "date": "2023-05-15",
+      "description": "Medication reconciliation (procedure)"
+    },
+    {
+      "date": "2023-05-06",
+      "description": "Measurement of respiratory function (procedure) for Acute bronchitis (disorder)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2024-03-18",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    },
+    {
+      "date": "2023-05-15",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    }
+  ],
+  "imaging_studies": [
+    {
+      "date": "2024-06-12",
+      "description": "Ultrasound, Heart structure (body structure)"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "678b807be998ba412b18391b"
+  },
+  "details": {
+    "name": "Grant Schuster",
+    "gender": "M",
+    "age": 22,
+    "birth_date": "2002-09-08",
+    "marital_status": "S",
+    "mail": "grantschuster@gmail.com",
+    "phone": "5861245783",
+    "blood_type": "B-",
+    "location": "Springfield, Massachussets",
+    "contact_emergency": "Pyke Mark Schuster (Father): 1689452037",
+    "doctor_mail": "doctorantonio@gmail.com"
+  },
+  "allergies": [],
+  "medications": [],
+  "conditions": [
+    {
+      "date_range": "2024-11-10 - today",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2020-11-01 - today",
+      "description": "Transport problem (finding)"
+    }
+  ],
+  "care_plans": [],
+  "reports": [
+    {
+      "date": "2024-11-10",
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-11-10",
+      "type": "Generalized anxiety disorder 7 item (GAD-7)",
+      "details": [
+        "Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-11-10",
+      "type": "CBC panel - Blood by Automated count",
+      "details": [
+        "Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL",
+        "Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL",
+        "Hemoglobin [Mass/volume] in Blood        14.4 g/dL",
+        "Hematocrit [Volume Fraction] of Blood by Automated count 43.0 %",
+        "MCV [Entitic volume] by Automated count  83.8 fL",
+        "MCH [Entitic mass] by Automated count    27.1 pg",
+        "MCHC [Mass/volume] by Automated count    35.2 g/dL",
+        "Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL",
+        "Platelets [#/volume] in Blood by Automated count 319.8 10*3/uL",
+        "Platelet distribution width [Entitic volume] in Blood by Automated count 217.2 fL",
+        "Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2024-11-10",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-11-10",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-11-10",
+      "description": "Assessment of anxiety (procedure)"
+    },
+    {
+      "date": "2024-11-10",
+      "description": "Assessment of health and social care needs (procedure)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2024-11-10",
+      "vaccine": "meningococcal MCV4P"
+    },
+    {
+      "date": "2024-11-10",
+      "vaccine": "Hep B, adult"
+    },
+    {
+      "date": "2024-11-10",
+      "vaccine": "Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed"
+    },
+    {
+      "date": "2024-11-10",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    }
+  ],
+  "imaging_studies": []
+},
+{
+  "_id": {
+    "$oid": "678b8084e998ba412b18391c"
+  },
+  "details": {
+    "name": "Jarred Streich",
+    "gender": "M",
+    "age": 19,
+    "birth_date": "2005-11-02",
+    "marital_status": "S",
+    "mail": "jarredstreich@gmail.com",
+    "phone": "1856472583",
+    "blood_type": "0-",
+    "location": "Springfield, Massachussets",
+    "contact_emergency": "Katerine Streich (Sister): 2536741598",
+    "doctor_mail": "doctorantonio@gmail.com"
+  },
+  "allergies": [],
+  "medications": [
+    {
+      "date": "2024-01-10",
+      "status": "STOPPED",
+      "name_and_reason": "sodium fluoride 0.0272 MG/MG Oral Gel for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-01-18",
+      "status": "CURRENT",
+      "name_and_reason": "Meperidine Hydrochloride 50 MG Oral Tablet"
+    },
+    {
+      "date": "2023-01-11",
+      "status": "STOPPED",
+      "name_and_reason": "Naproxen sodium 220 MG Oral Tablet"
+    }
+  ],
+  "conditions": [
+    {
+      "date_range": "2025-01-01 - today",
+      "description": "Stress (finding)"
+    },
+    {
+      "date_range": "2025-01-01 - today",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2024-02-13 - 2024-02-26",
+      "description": "Acute viral pharyngitis (disorder)"
+    },
+    {
+      "date_range": "2023-12-27 - 2024-01-10",
+      "description": "Gingivitis (disorder)"
+    },
+    {
+      "date_range": "2023-12-27 - 2025-01-01",
+      "description": "Victim of intimate partner abuse (finding)"
+    },
+    {
+      "date_range": "2023-12-27 - 2023-12-27",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2023-10-31 - 2023-11-14",
+      "description": "Viral sinusitis (disorder)"
+    },
+    {
+      "date_range": "2023-01-11 - 2023-04-18",
+      "description": "Injury of anterior cruciate ligament (disorder)"
+    },
+    {
+      "date_range": "2023-01-11 - 2023-04-18",
+      "description": "Injury of knee (disorder)"
+    }
+  ],
+  "care_plans": [
+    {
+      "date": "2023-01-11[STOPPED]",
+      "type": "Physiotherapy care plan (record artifact)",
+      "reason": "Injury of anterior cruciate ligament (disorder)",
+      "activities": [
+        "Rest, ice, compression and elevation treatment program (regime/therapy)",
+        "Stretching exercises (regime/therapy)"
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "date": "2025-01-01",
+      "type": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+      "details": [
+        "Total score [AUDIT-C]                    2.0 {score}"
+      ]
+    },
+    {
+      "date": "2025-01-01",
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}"
+      ]
+    },
+    {
+      "date": "2025-01-01",
+      "type": "Generalized anxiety disorder 7 item (GAD-7)",
+      "details": [
+        "Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}"
+      ]
+    },
+    {
+      "date": "2023-12-27",
+      "type": "Generalized anxiety disorder 7 item (GAD-7)",
+      "details": [
+        "Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2025-01-01",
+      "description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "Assessment of anxiety (procedure)"
+    },
+    {
+      "date": "2025-01-01",
+      "description": "Assessment of health and social care needs (procedure)"
+    },
+    {
+      "date": "2024-01-10",
+      "description": "Oral health education (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2024-01-10",
+      "description": "Dental fluoride treatment (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2024-01-10",
+      "description": "Examination of gingivae (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2024-01-10",
+      "description": "Dental plain X-ray bitewing (procedure)"
+    },
+    {
+      "date": "2024-01-10",
+      "description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2024-01-10",
+      "description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2024-01-10",
+      "description": "Dental care (regime/therapy) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2024-01-10",
+      "description": "Dental consultation and report (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-12-27",
+      "description": "Patient referral for dental care (procedure) for Gingivitis (disorder)"
+    },
+    {
+      "date": "2023-12-27",
+      "description": "Assessment of anxiety (procedure)"
+    },
+    {
+      "date": "2023-12-27",
+      "description": "Assessment of health and social care needs (procedure)"
+    },
+    {
+      "date": "2023-12-27",
+      "description": "Medication reconciliation (procedure)"
+    },
+    {
+      "date": "2023-01-29",
+      "description": "Discharge from hospital (procedure)"
+    },
+    {
+      "date": "2023-01-29",
+      "description": "Pre-discharge assessment (procedure)"
+    },
+    {
+      "date": "2023-01-28",
+      "description": "Nursing care/supplementary surveillance (regime/therapy)"
+    },
+    {
+      "date": "2023-01-27",
+      "description": "Speech and language therapy regime (regime/therapy)"
+    },
+    {
+      "date": "2023-01-27",
+      "description": "Nursing care/supplementary surveillance (regime/therapy)"
+    },
+    {
+      "date": "2023-01-26",
+      "description": "Nursing care/supplementary surveillance (regime/therapy)"
+    },
+    {
+      "date": "2023-01-25",
+      "description": "Occupational therapy (regime/therapy)"
+    },
+    {
+      "date": "2023-01-25",
+      "description": "Nursing care/supplementary surveillance (regime/therapy)"
+    },
+    {
+      "date": "2023-01-24",
+      "description": "Occupational therapy (regime/therapy)"
+    },
+    {
+      "date": "2023-01-24",
+      "description": "Nursing care/supplementary surveillance (regime/therapy)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2025-01-01",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    },
+    {
+      "date": "2023-12-27",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    }
+  ],
+  "imaging_studies": [
+    {
+      "date": "2024-01-10",
+      "description": "Digital Radiography, Structure of region of internal part of mouth (body structure)"
+    },
+    {
+      "date": "2023-01-11",
+      "description": "Digital Radiography, Knee region structure (body structure)"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "678b808de998ba412b18391d"
+  },
+  "details": {
+    "name": "Jasmine Anne Palombi",
+    "gender": "F",
+    "age": 45,
+    "birth_date": "1980-03-22",
+    "marital_status": "M",
+    "mail": "jasmineannepalombi@gmail.com",
+    "phone": "3924785165",
+    "blood_type": "A-",
+    "location": "Ludlow, Massachussets",
+    "contact_emergency": "Alessandro Palombi (Husband): 3598476502",
+    "doctor_mail": "doctorantonio@gmail.com"
+  },
+  "allergies": [
+    {
+      "date": "2012-03-04",
+      "description": "Sulfa drugs"
+    }
+  ],
+  "medications": [
+    {
+      "date": "2025-01-10",
+      "status": "CURRENT",
+      "name_and_reason": "Metformin 500 MG Oral Tablet for Type 2 diabetes mellitus"
+    },
+    {
+      "date": "2024-11-01",
+      "status": "STOPPED",
+      "name_and_reason": "Artificial tears for Eye infection"
+    }
+  ],
+  "conditions": [
+    {
+      "date_range": "2023-08-15 - today",
+      "description": "Type 2 diabetes mellitus (disorder)"
+    },
+    {
+      "date_range": "2024-10-10 - 2024-11-01",
+      "description": "Conjunctivitis (disorder)"
+    }
+  ],
+  "care_plans": [
+    {
+      "date": "2023-08-16[CURRENT]",
+      "type": "Diabetes management plan",
+      "reason": "Type 2 diabetes mellitus",
+      "activities": [
+        "Daily blood sugar monitoring",
+        "Dietary consultation for glycemic control",
+        "Regular HbA1c testing"
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "date": "2023-08-15",
+      "type": "HbA1c test",
+      "details": [
+        "HbA1c level: 7.5% (elevated)"
+      ]
+    },
+    {
+      "date": "2024-10-10",
+      "type": "Eye swab culture",
+      "details": [
+        "Result: Bacterial conjunctivitis confirmed"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2023-08-15",
+      "description": "HbA1c test (procedure)"
+    },
+    {
+      "date": "2024-10-10",
+      "description": "Eye swab collection (procedure)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2023-03-01",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    }
+  ],
+  "imaging_studies": []
+},
+{
+  "_id": {
+    "$oid": "678b8095e998ba412b18391e"
+  },
+  "details": {
+    "name": "Mauritius Jhonson",
+    "gender": "M",
+    "age": 52,
+    "birth_date": "1972-09-15",
+    "marital_status": "M",
+    "mail": "mauritiusjhonson@gmail.com",
+    "phone": "1245789638",
+    "blood_type": "B+",
+    "location": "Westfield, Massachussets",
+    "contact_emergency": "Rebekah Jhonson (Wife): 2524831560",
+    "doctor_mail": "doctorantonio@gmail.com"
+  },
+  "allergies": [
+    {
+      "date": "2017-09-12",
+      "description": "Penicillin"
+    }
+  ],
+  "medications": [
+    {
+      "date": "2025-01-10",
+      "status": "CURRENT",
+      "name_and_reason": "Sorafenib 200 MG Oral Tablet for Hepatocellular carcinoma"
+    },
+    {
+      "date": "2024-12-01",
+      "status": "STOPPED",
+      "name_and_reason": "Ibuprofen 400 MG Oral Tablet for Pain"
+    }
+  ],
+  "conditions": [
+    {
+      "date_range": "2024-06-15 - today",
+      "description": "Hepatocellular carcinoma (disorder)"
+    },
+    {
+      "date_range": "2024-06-15 - today",
+      "description": "Cirrhosis of liver (disorder)"
+    }
+  ],
+  "care_plans": [
+    {
+      "date": "2024-06-16[CURRENT]",
+      "type": "Cancer management plan",
+      "reason": "Hepatocellular carcinoma",
+      "activities": [
+        "Regular imaging studies (MRI and CT scans) to monitor tumor progression",
+        "Palliative care support",
+        "Dietary consultation for liver health"
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "date": "2024-06-15",
+      "type": "Liver biopsy report",
+      "details": [
+        "Diagnosis: Hepatocellular carcinoma",
+        "Tumor stage: T3N0M0"
+      ]
+    },
+    {
+      "date": "2024-06-15",
+      "type": "AFP (Alpha-fetoprotein) test",
+      "details": [
+        "AFP level: 450 ng/mL (elevated)"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2024-06-15",
+      "description": "Liver biopsy (procedure)"
+    },
+    {
+      "date": "2024-07-01",
+      "description": "MRI scan of liver (procedure)"
+    },
+    {
+      "date": "2024-07-15",
+      "description": "CT scan of abdomen (procedure)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2024-06-01",
+      "vaccine": "Hepatitis B vaccine"
+    }
+  ],
+  "imaging_studies": [
+    {
+      "date": "2024-07-01",
+      "description": "MRI of liver showing a 5 cm lesion in the right lobe"
+    },
+    {
+      "date": "2024-07-15",
+      "description": "CT scan of abdomen confirming cirrhosis and tumor"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "678b80a7e998ba412b183921"
+  },
+  "details": {
+    "name": "Solomon Cole",
+    "gender": "M",
+    "age": 32,
+    "birth_date": "1992-03-31",
+    "marital_status": "M",
+    "mail": "solomoncole@gmail.com",
+    "phone": "2035986148",
+    "blood_type": "AB+",
+    "location": "Springfield, Massachussets",
+    "contact_emergency": "Vanessa Lily Cole (Wife): 2647836302",
+    "doctor_mail": "doctorantonio@gmail.com"
+  },
+  "allergies": [],
+  "medications": [
+    {
+      "date": "2024-04-16",
+      "status": "CURRENT",
+      "name_and_reason": "Acetaminophen 325 MG Oral Tablet [Tylenol]"
+    },
+    {
+      "date": "2023-04-25",
+      "status": "STOPPED",
+      "name_and_reason": "sodium fluoride 0.0272 MG/MG Oral Gel for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2023-04-11",
+      "status": "STOPPED",
+      "name_and_reason": "Acetaminophen 325 MG Oral Tablet [Tylenol]"
+    },
+    {
+      "date": "2022-04-05",
+      "status": "STOPPED",
+      "name_and_reason": "Acetaminophen 325 MG Oral Tablet [Tylenol]"
+    }
+  ],
+  "conditions": [
+    {
+      "date_range": "2024-04-16 - today",
+      "description": "Severe anxiety (panic) (finding)"
+    },
+    {
+      "date_range": "2024-04-16 - 2024-04-16",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2022-04-05 - ",
+      "description": "Body mass index 30+ - obesity (finding)"
+    },
+    {
+      "date_range": "2020-03-24 - today",
+      "description": "Stress (finding)"
+    },
+    {
+      "date_range": "2017-03-07 - 2023-04-11",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2014-02-06 - today",
+      "description": "Chronic low back pain (finding)"
+    },
+    {
+      "date_range": "2013-10-01 - today",
+      "description": "Chronic pain (finding)"
+    },
+    {
+      "date_range": "2013-03-26 - today",
+      "description": "Aortic valve stenosis (disorder)"
+    },
+    {
+      "date_range": "2011-05-31 - today",
+      "description": "Social isolation (finding)"
+    }
+  ],
+  "care_plans": [],
+  "reports": [
+    {
+      "date": "2024-04-16",
+      "type": "Drug Abuse Screening Test-10 [DAST-10]",
+      "details": [
+        "Total score [DAST-10]                    2.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-04-16",
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-04-16",
+      "type": "Humiliation, Afraid, Rape, and Kick questionnaire [HARK]",
+      "details": [
+        "Total score [HARK]                       0.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-04-16",
+      "type": "Generalized anxiety disorder 7 item (GAD-7)",
+      "details": [
+        "Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 16.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-04-16",
+      "type": "CBC panel - Blood by Automated count",
+      "details": [
+        "Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL",
+        "Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL",
+        "Hemoglobin [Mass/volume] in Blood        17.2 g/dL",
+        "Hematocrit [Volume Fraction] of Blood by Automated count 38.5 %",
+        "MCV [Entitic volume] by Automated count  82.6 fL",
+        "MCH [Entitic mass] by Automated count    30.8 pg",
+        "MCHC [Mass/volume] by Automated count    34.8 g/dL",
+        "Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL",
+        "Platelets [#/volume] in Blood by Automated count 369.3 10*3/uL",
+        "Platelet distribution width [Entitic volume] in Blood by Automated count 215.7 fL",
+        "Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2024-11-30",
+      "description": "Transthoracic echocardiography (procedure)"
+    },
+    {
+      "date": "2024-11-30",
+      "description": "Referral for echocardiography (procedure) for Aortic valve stenosis (disorder)"
+    },
+    {
+      "date": "2024-05-20",
+      "description": "Transthoracic echocardiography (procedure)"
+    },
+    {
+      "date": "2024-05-20",
+      "description": "Referral for echocardiography (procedure) for Aortic valve stenosis (disorder)"
+    },
+    {
+      "date": "2024-04-16",
+      "description": "Screening for drug abuse (procedure)"
+    },
+    {
+      "date": "2024-04-16",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2024-04-16",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-04-16",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-04-16",
+      "description": "Screening for domestic abuse (procedure)"
+    },
+    {
+      "date": "2024-04-16",
+      "description": "Assessment of anxiety (procedure)"
+    },
+    {
+      "date": "2024-04-16",
+      "description": "Assessment of health and social care needs (procedure)"
+    },
+    {
+      "date": "2024-04-16",
+      "description": "Medication reconciliation (procedure)"
+    },
+    {
+      "date": "2023-06-07",
+      "description": "Transthoracic echocardiography (procedure)"
+    },
+    {
+      "date": "2023-06-07",
+      "description": "Referral for echocardiography (procedure) for Aortic valve stenosis (disorder)"
+    },
+    {
+      "date": "2023-04-25",
+      "description": "Oral health education (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2023-04-25",
+      "description": "Dental fluoride treatment (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2023-04-25",
+      "description": "Examination of gingivae (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2023-04-25",
+      "description": "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2023-04-25",
+      "description": "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2023-04-25",
+      "description": "Dental care (regime/therapy) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2023-04-25",
+      "description": "Dental consultation and report (procedure) for Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2023-04-11",
+      "description": "Patient referral for dental care (procedure)"
+    },
+    {
+      "date": "2023-04-11",
+      "description": "Assessment of health and social care needs (procedure)"
+    },
+    {
+      "date": "2023-04-11",
+      "description": "Medication reconciliation (procedure)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2024-04-16",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    },
+    {
+      "date": "2023-04-11",
+      "vaccine": "Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed"
+    },
+    {
+      "date": "2023-04-11",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    }
+  ],
+  "imaging_studies": [
+    {
+      "date": "2024-11-30",
+      "description": "Ultrasound, Heart structure (body structure)"
+    },
+    {
+      "date": "2024-05-20",
+      "description": "Ultrasound, Heart structure (body structure)"
+    },
+    {
+      "date": "2023-06-07",
+      "description": "Ultrasound, Heart structure (body structure)"
+    },
+    {
+      "date": "2013-03-26",
+      "description": "Ultrasound, Heart structure (body structure)"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "678b80b2e998ba412b183922"
+  },
+  "details": {
+    "name": "Twila Bartoletti",
+    "gender": "F",
+    "age": 22,
+    "birth_date": "2002-03-23",
+    "marital_status": "S",
+    "mail": "twilabartoletti@gmail.com",
+    "phone": "3250146807",
+    "blood_type": "A+",
+    "location": "Agawam, Massachussets",
+    "contact_emergency": "Mattew Bartoletti (Brother): 2654872563",
+    "doctor_mail": "doctorantonio@gmail.com"
+  },
+  "allergies": [],
+  "medications": [
+    {
+      "date": "2024-12-16",
+      "status": "STOPPED",
+      "name_and_reason": "ciprofloxacin 250 MG Oral Tablet for Acute infective cystitis (disorder)"
+    },
+    {
+      "date": "2024-11-01",
+      "status": "CURRENT",
+      "name_and_reason": "Levora 0.15/30 28 Day Pack"
+    },
+    {
+      "date": "2022-11-12",
+      "status": "STOPPED",
+      "name_and_reason": "Natazia 28 Day Pack"
+    },
+    {
+      "date": "2015-02-20",
+      "status": "CURRENT",
+      "name_and_reason": "Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet"
+    }
+  ],
+  "conditions": [
+    {
+      "date_range": "2024-12-13 - 2024-12-18",
+      "description": "Acute infective cystitis (disorder)"
+    },
+    {
+      "date_range": "2024-07-07 - today",
+      "description": "Social isolation (finding)"
+    },
+    {
+      "date_range": "2024-03-27 - 2024-04-09",
+      "description": "Viral sinusitis (disorder)"
+    },
+    {
+      "date_range": "2021-10-17 - ",
+      "description": "Past pregnancy history of miscarriage (situation)"
+    },
+    {
+      "date_range": "2021-07-04 - today",
+      "description": "Medication review due (situation)"
+    }
+  ],
+  "care_plans": [],
+  "reports": [
+    {
+      "date": "2024-12-14",
+      "type": "Urinalysis macro (dipstick) panel - Urine",
+      "details": [
+        "Glucose [Mass/volume] in Urine by Test strip 13.1 mg/dL",
+        "Ketones [Presence] in Urine by Test strip Urine ketones not detected (finding) {nominal}",
+        "Specific gravity of Urine by Test strip  1.0 {nominal}",
+        "pH of Urine by Test strip                5.2 pH",
+        "Protein [Mass/volume] in Urine by Test strip 8.2 mg/dL",
+        "Nitrite [Presence] in Urine by Test strip Nitrite detected in urine (finding) {nominal}",
+        "Hemoglobin [Presence] in Urine by Test strip Urine blood test = + (finding) {nominal}",
+        "Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test one plus (finding) {nominal}",
+        "WBCs                                     37.6 /[HPF]",
+        "RBCs                                     1.4 /[HPF]",
+        "Epithelial Cells                         3.9 /[HPF]"
+      ]
+    },
+    {
+      "date": "- Casts                                    Urine microscopy",
+      "type": "no casts (finding) {nominal}",
+      "details": [
+        "Mucus Threads                            Mucus in urine (finding) {nominal}",
+        "Bacteria                                 Finding of presence of bacteria (finding) {nominal}"
+      ]
+    },
+    {
+      "date": "2024-07-07",
+      "type": "Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]",
+      "details": [
+        "Total score [AUDIT-C]                    1.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-07-07",
+      "type": "Patient Health Questionnaire 2 item (PHQ-2) [Reported]",
+      "details": [
+        "Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-07-07",
+      "type": "Generalized anxiety disorder 7 item (GAD-7)",
+      "details": [
+        "Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}"
+      ]
+    },
+    {
+      "date": "2024-07-07",
+      "type": "CBC panel - Blood by Automated count",
+      "details": [
+        "Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL",
+        "Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL",
+        "Hemoglobin [Mass/volume] in Blood        12.9 g/dL",
+        "Hematocrit [Volume Fraction] of Blood by Automated count 47.6 %",
+        "MCV [Entitic volume] by Automated count  84.5 fL",
+        "MCH [Entitic mass] by Automated count    28.8 pg",
+        "MCHC [Mass/volume] by Automated count    34.1 g/dL",
+        "Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL",
+        "Platelets [#/volume] in Blood by Automated count 438.3 10*3/uL",
+        "Platelet distribution width [Entitic volume] in Blood by Automated count 227.3 fL",
+        "Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL"
+      ]
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2024-12-16",
+      "description": "Prescription of drug (procedure)"
+    },
+    {
+      "date": "2024-12-16",
+      "description": "Discussion about treatment (procedure)"
+    },
+    {
+      "date": "2024-12-16",
+      "description": "Lab findings education, guidance, and counseling (procedure)"
+    },
+    {
+      "date": "2024-12-16",
+      "description": "Patient informed - test result (situation)"
+    },
+    {
+      "date": "2024-12-14",
+      "description": "Urinalysis with reflex to microscopy and culture (procedure)"
+    },
+    {
+      "date": "2024-12-14",
+      "description": "Urine specimen collection (procedure)"
+    },
+    {
+      "date": "2024-12-14",
+      "description": "Referral for laboratory tests (procedure)"
+    },
+    {
+      "date": "2024-12-14",
+      "description": "Evaluation procedure (procedure)"
+    },
+    {
+      "date": "2024-12-14",
+      "description": "Discussion about pregnancy (procedure)"
+    },
+    {
+      "date": "2024-12-14",
+      "description": "Discussion about signs and symptoms (procedure)"
+    },
+    {
+      "date": "2024-12-14",
+      "description": "History taking (procedure)"
+    },
+    {
+      "date": "2024-12-13",
+      "description": "Telemedicine consultation with patient (procedure)"
+    },
+    {
+      "date": "2024-07-07",
+      "description": "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)"
+    },
+    {
+      "date": "2024-07-07",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2024-07-07",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-07-07",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-07-07",
+      "description": "Assessment of anxiety (procedure)"
+    },
+    {
+      "date": "2024-07-07",
+      "description": "Assessment of health and social care needs (procedure)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2024-07-07",
+      "vaccine": "meningococcal MCV4P"
+    },
+    {
+      "date": "2024-07-07",
+      "vaccine": "Hep B, adult"
+    },
+    {
+      "date": "2024-07-07",
+      "vaccine": "Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed"
+    },
+    {
+      "date": "2024-07-07",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    }
+  ],
+  "imaging_studies": []
+},
+{
+  "_id": {
+    "$oid": "678b80b8e998ba412b183923"
+  },
+  "details": {
+    "name": "Wyatt Leffer",
+    "gender": "M",
+    "age": 15,
+    "birth_date": "2009-01-28",
+    "marital_status": "S",
+    "mail": "wyattleffer@gmail.com",
+    "phone": "256712049",
+    "blood_type": "AB-",
+    "location": "Springfield, Massachussets",
+    "contact_emergency": "Roxana Anne Leffer (Mother): 1574268953",
+    "doctor_mail": "doctordaria@gmail.com"
+  },
+  "allergies": [
+    {
+      "date": "2011-05-28 -",
+      "description": "Mold (organism)"
+    },
+    {
+      "date": "2011-05-28 -",
+      "description": "Allergy to substance (finding)"
+    }
+  ],
+  "medications": [
+    {
+      "date": "2023-10-25",
+      "status": "STOPPED",
+      "name_and_reason": "Ibuprofen 200 MG Oral Tablet"
+    },
+    {
+      "date": "2023-10-25",
+      "status": "CURRENT",
+      "name_and_reason": "Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet"
+    },
+    {
+      "date": "2011-05-28",
+      "status": "CURRENT",
+      "name_and_reason": "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector"
+    },
+    {
+      "date": "2011-05-19",
+      "status": "CURRENT",
+      "name_and_reason": "Loratadine 5 MG Chewable Tablet"
+    }
+  ],
+  "conditions": [
+    {
+      "date_range": "2023-10-25 - 2024-01-10",
+      "description": "Fracture of clavicle (disorder)"
+    },
+    {
+      "date_range": "2023-10-25 - 2024-01-10",
+      "description": "Fracture of bone (disorder)"
+    },
+    {
+      "date_range": "2023-03-01 - today",
+      "description": "Medication review due (situation)"
+    },
+    {
+      "date_range": "2011-05-19 - today",
+      "description": "Perennial allergic rhinitis with seasonal variation (disorder)"
+    }
+  ],
+  "care_plans": [
+    {
+      "date": "2023-10-25[STOPPED]",
+      "type": "Fracture care (regime/therapy)",
+      "reason": "Fracture of clavicle (disorder)",
+      "activities": [
+        "Recommendation to rest (procedure)",
+        "Physical activity target light exercise (finding)"
+      ]
+    },
+    {
+      "date": "2022-02-02[CURRENT]",
+      "type": "Allergic disorder monitoring (regime/therapy)",
+      "reason": null,
+      "activities": [
+        "Allergen immunotherapy (regime/therapy)"
+      ]
+    },
+    {
+      "date": "2011-05-28[CURRENT]",
+      "type": "Self-care interventions (procedure)",
+      "reason": null,
+      "activities": [
+        "Allergy education (procedure)"
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "date": "2024-03-06",
+      "type": "Patient Health Questionnaire-9",
+      "details": []
+    },
+    {
+      "date": "- Patient Health Questionnaire-9",
+      "type": "Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}",
+      "details": []
+    },
+    {
+      "date": "2023-03-01",
+      "type": "Patient Health Questionnaire-9",
+      "details": []
+    },
+    {
+      "date": "- Patient Health Questionnaire-9",
+      "type": "Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}",
+      "details": []
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2025-01-10",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-12-18",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-11-22",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-10-28",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-10-01",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-09-09",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-08-15",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-07-25",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-07-03",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-06-09",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-05-17",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-04-22",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-04-01",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-03-10",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-03-06",
+      "description": "Anticipatory guidance (procedure)"
+    },
+    {
+      "date": "2024-03-06",
+      "description": "Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)"
+    },
+    {
+      "date": "2024-03-06",
+      "description": "Assessment of substance use (procedure)"
+    },
+    {
+      "date": "2024-03-06",
+      "description": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)"
+    },
+    {
+      "date": "2024-03-06",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2024-02-13",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2024-01-21",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-12-26",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-11-30",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-11-08",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-10-25",
+      "description": "Admission to orthopedic department (procedure) for Fracture of clavicle (disorder)"
+    },
+    {
+      "date": "2023-10-25",
+      "description": "Plain X-ray of clavicle (procedure)"
+    },
+    {
+      "date": "2023-10-06",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-09-13",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-08-18",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-07-24",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-06-28",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-06-04",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-05-13",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-04-20",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-03-30",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-03-05",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    },
+    {
+      "date": "2023-03-01",
+      "description": "Depression screening using Patient Health Questionnaire Nine Item score (procedure)"
+    },
+    {
+      "date": "2023-03-01",
+      "description": "Depression screening (procedure)"
+    },
+    {
+      "date": "2023-02-08",
+      "description": "Subcutaneous immunotherapy (procedure)"
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2024-03-06",
+      "vaccine": "Influenza, seasonal, injectable, preservative free"
+    }
+  ],
+  "imaging_studies": [
+    {
+      "date": "2023-10-25",
+      "description": "Digital Radiography, Bone structure of clavicle (body structure)"
+    }
+  ]
+}]
