@@ -18,17 +18,19 @@ You need to install:
    + fs.chunks
 2. Clone the repository into VSCode
 3. From the “Database” folder of the repository import the files into the respective collections.
-4. Open the .env file in the backend folder and change the connection string of the database with you own (it might be the same)
-5. Open the VSCode terminal and create a virtual environment in the main folder of the project:<br>
+4. Create a new folder into the backend one named "model"
+5. Copy the file "mistral-7b-openorca.Q8_0.gguf" into the folder "model"
+6. Open the .env file in the backend folder and change the connection string of the database with you own (it might be the same)
+7. Open the VSCode terminal and create a virtual environment in the main folder of the project:<br>
    ```python -m venv .venv```
-6. After the creation of the virtual environment activate it and install the requirments:<br>
+8. After the creation of the virtual environment activate it and install the requirments:<br>
    ```.venv\Scripts\activate```<br>
    ```cd backend```<br>
     ```pip install -r requirements.txt```
-7. Deactivate the virtual environment:<br>
+9. Deactivate the virtual environment:<br>
    ```deactivate```
-8. Install concurrently:<br>
+10. Install concurrently:<br>
 ```cd ../frontend```<br>
    ```npm install concurrently --save-dev --legacy-peer-deps```
-9. Now you are ready to launch the web application, every time you want to run the project just type:<br>
+11. Now you are ready to launch the web application, every time you want to run the project just type:<br>
    ```npm run dev```
