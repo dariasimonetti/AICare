@@ -23,8 +23,10 @@ You need to install:
    ```python -m venv .venv```
 6. After the creation of the virtual environment activate it and install the requirments:<br>
    ```.venv\Scripts\activate```<br>
+   ```cd backend```<br>
     ```pip install -r requirements.txt```
 7. Deactivate the virtual environment:<br>
    ```deactivate```
 8. Now you are ready to launch the web application, every time you want to run the project just type:<br>
+   ```cd frontend```
    ```npm run dev```
