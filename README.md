@@ -16,8 +16,8 @@ You need to install:
    + doctors
    + fs.files
    + fs.chunks
-2. From the “Database” folder of the repository import the files into the respective collections.
-3. Clone the repository into VSCode
+2. Clone the repository into VSCode
+3. From the “Database” folder of the repository import the files into the respective collections.
 4. Open the .env file in the backend folder and change the connection string of the database with you own (it might be the same)
 5. Open the VSCode terminal and create a virtual environment in the main folder of the project:<br>
    ```python -m venv .venv```
