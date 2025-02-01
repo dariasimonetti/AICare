@@ -27,6 +27,8 @@ You need to install:
     ```pip install -r requirements.txt```
 7. Deactivate the virtual environment:<br>
    ```deactivate```
-8. Now you are ready to launch the web application, every time you want to run the project just type:<br>
-   ```cd ../frontend```<br>
+8. Install concurrently:<br>
+```cd ../frontend```<br>
+   ```npm install concurrently --save-dev --legacy-peer-deps```
+9. Now you are ready to launch the web application, every time you want to run the project just type:<br>
    ```npm run dev```
