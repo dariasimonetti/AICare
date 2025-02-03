@@ -34,3 +34,6 @@ You need to install:
    ```npm install concurrently --save-dev --legacy-peer-deps```
 11. Now you are ready to launch the web application, every time you want to run the project just type:<br>
    ```npm run dev```
+
+Note: if you have problems with the Scripts when running the project open PowerShell and type:<br>
+```Set-ExecutionPolicy Unrestricted -Scope Process```
