@@ -129,7 +129,7 @@ const LlmInterface = forwardRef(({ patientId, isLoadingGlobal, setIsLoadingGloba
 
 
       {/* Messaggi */}
-      <div className="h-[605px] w-full p 5 bg-gray-100 rounded-lg " style={{ boxShadow: "inset 0 0 10px #3660A9" }}>
+      <div className="h-[605px] w-full max-w-xl p 5 bg-gray-100 rounded-lg " style={{ boxShadow: "inset 0 0 10px #3660A9" }}>
       <div className="h-[590px] w-wrap overflow-y-auto m-2 mb-2 mr-2 p-4 bg-gray-100 rounded-lg scrollbar scrollbar-thumb-[#3660A9] scrollbar-track-transparent"
         >
         {messages.map((msg, index) => (
@@ -193,7 +193,7 @@ const LlmInterface = forwardRef(({ patientId, isLoadingGlobal, setIsLoadingGloba
       </div>
 
       {/* Input e pulsante */}
-      <div className="flex items-center mt-4 w-full">
+      <div className="flex items-center mt-4 w-full max-w-xl">
         <textarea
         ref={inputRef}
         className="flex-grow text-black bg-gray-50 border border-[#3660A9] rounded-md focus:border-[#3660A9]/50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#3660A9] transition-colors duration-300 pl-4 h-16 resize-none scrollbar scrollbar-thumb-[#3660A9] scrollbar-track-transparent"

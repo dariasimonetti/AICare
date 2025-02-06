@@ -62,7 +62,7 @@ function ChatHistory ({ patientId, loadChat }){
   };
 
   return (
-    <div className="select-none w-full mt-4">
+    <div className="select-none w-wrap max-w-xl mt-4">
       <div
         className="flex items-start cursor-pointer"
         onClick={() => setIsExpanded(!isExpanded)}
@@ -75,7 +75,7 @@ function ChatHistory ({ patientId, loadChat }){
         
       </div>
       {isExpanded && (
-        <div className="mt-2 text-left">
+        <div className="mt-2 w-wrap max-w-xl">
           {chatHistories.length > 0 ? (
             <ul className="list-disc pl-5 marker:text-[#3660A9]">
               {chatHistories.map((history, index) => (
