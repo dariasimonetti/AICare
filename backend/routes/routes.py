@@ -200,7 +200,7 @@ def send_category_to_llm():
 
         {patient_details}
 
-        Task: Provide a detailed summary and analysis of the patient's {category_name}.
+        Task: Provide a detailed summary and your opinion of the patient's {category_name}.
         Content: {category_text}
 
         Assistant: Respond in a complete and detailed manner, avoiding unnecessary repetitions.

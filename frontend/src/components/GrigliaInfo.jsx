@@ -416,7 +416,7 @@ function GrigliaInfo({ patient, onCategoryResponse, isLoadingGlobal, setIsLoadin
             <div className="flex items-start py-3 flex-wrap">
               <span className="select-none font-bold text-xl text-[#3660A9]" onClick={() => toggleSection("procedures")}>
                 <ion-icon name={expandedSections.procedures ? "chevron-up-circle-outline" : "chevron-down-circle-outline"} style={{ marginRight: "10px",cursor:"pointer" }}></ion-icon>Procedures History</span>
-                <span className={`font-bold text-xl ${patient.procedures.length > 0  ? "text-[#3660A9]" : "text-gray-400"}`}><ion-icon name="chatbubble-ellipses-outline" style={{marginLeft: "5px", cursor: patient.procedures.length > 0 && !isLoadingGlobal ? "pointer" : "not-allowed", }} onClick={() => patient.procedures.length > 0  && !isLoadingGlobal && handleSendCategory("Procedures History", patient.prcoedures || "No data")}></ion-icon></span>
+                <span className={`font-bold text-xl ${patient.procedures.length > 0  ? "text-[#3660A9]" : "text-gray-400"}`}><ion-icon name="chatbubble-ellipses-outline" style={{marginLeft: "5px", cursor: patient.procedures.length > 0 && !isLoadingGlobal ? "pointer" : "not-allowed", }} onClick={() => patient.procedures.length > 0  && !isLoadingGlobal && handleSendCategory("Procedures History", patient.procedures || "No data")}></ion-icon></span>
 
               {expandedSections.procedures && (
                 <span className="break-words w-full mt-2">
